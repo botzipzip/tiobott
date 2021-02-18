@@ -16,7 +16,7 @@
 - Change ```botName``` with your Bot Name
 Example:
 ```bash
-"botName": "Isemori Bot",
+"botName": "TioBot",
 ```
 - Change ```ownerName``` with your Name
 Example:
